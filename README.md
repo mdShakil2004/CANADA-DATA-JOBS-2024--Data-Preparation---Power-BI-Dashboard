@@ -2,9 +2,9 @@
 
 ### Project Overview
 
-This project demonstrates **end-to-end data engineering and visualization skills** through the cleaning, standardization, and analysis of Canadian LinkedIn job vacancy data for 2024. The focus was on transforming messy, raw job posting data into a clean, analysis-ready dataset and building an interactive **Power BI dashboard prototype** to uncover key labor market trends in the Canadian data and tech sector.
+This project demonstrates **end-to-end data engineering and visualization skills** through the cleaning, standardization, and analysis of Canadian LinkedIn job vacancy data for 2024. The focus was on transforming messy, raw job posting data into a clean, analysis-ready dataset and building an interactive **Power BI dashboard prototype** to uncover key labor market trends in the Canadian data and tech sector
 
-The resulting dashboard provides valuable insights into job distribution, sector demand, role popularity, and market dynamics — empowering recruiters, job seekers, and analysts to make data-driven decisions.
+The resulting dashboard provides valuable insights into job distribution, sector demand, role popularity, and market dynamics — empowering recruiters, job seekers, and analysts to make data-driven decisions
 
 ---
 
